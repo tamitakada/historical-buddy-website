@@ -19,6 +19,7 @@ html, body { background-color: #D64E24; height: 100%; }
 h1 { font-family: Ontel; color: white; font-size: 60pt; }
 h2 { font-family: Zen-Bold; color: white; }
 h3 { font-family: Zen-Bold; color: white; }
+p { font-family: Zen-Regular; color: white; }
 
 a img:hover { opacity: 60%;  }
 
