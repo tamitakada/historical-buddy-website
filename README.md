@@ -12,6 +12,6 @@ This website tracks updates for my coming iOS app, HistoricalBuddy. The app is s
 * Email: kotaomi.dev@gmail.com
 
 ## Copyright & Usage
-Copyright © 2022 Tami Takada  
+You can use the code and documents EXCEPT for the logo (kota-omi-boxed.svg) freely for personal and commercial use, but I'm not liable for any issues that you have when using it. Refer [here](https://github.com/logos) for Github logo usage.
 
-You can use the code and documents EXCEPT for the logo (kota-omi-boxed.svg) freely for personal and commercial use. Refer [here](https://github.com/logos) for Github logo usage.
+Copyright © 2022 Tami Takada
