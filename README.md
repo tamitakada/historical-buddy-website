@@ -8,5 +8,8 @@ This website tracks updates for my coming iOS app, HistoricalBuddy. The app is s
 * Ontel font: [Khurasan](https://www.fontspace.com/khurasan)
 * Zen Maru Gothic font: [Yoshimichi Ohira](https://www.zenfont.jp/)
 
+## Copyright
+Copyright © 2022 Tami Takada
+
 ## Contact
 * Email: kotaomi.dev@gmail.com
